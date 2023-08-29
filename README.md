@@ -1,6 +1,6 @@
 ## Hello friend! 👋
 ![Header](https://github.com/Albitsky/Albitsky/blob/main/assets/e9a505d1d8604f350e9df5b33b551493_w200.gif)
-![Profile_views](https://komarev.com/ghpvc/?username=albitsky&color=blueviolet&style=for-the-badge)
+![Profile_views](https://komarev.com/ghpvc/?username=albitsky&color=blueviolet&style=plastic)
 <!--
 **Albitsky/Albitsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
