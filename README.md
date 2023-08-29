@@ -1,5 +1,5 @@
 ## Hello friend! 👋
-![Header](https://github.com/Albitsky/Albitsky/blob/main/assets/e9a505d1d8604f350e9df5b33b551493_w200.gif)
+![Header](https://github.com/Albitsky/Albitsky/blob/main/assets/2GU.gif)
 ![Profile_views](https://komarev.com/ghpvc/?username=albitsky&color=blueviolet&style=plastic)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE8838&width=435&lines=I'm+QA+Engeneer+(manual%2Bauto))](https://git.io/typing-svg)
 <!--
